@@ -1,0 +1,7 @@
+trajin reimaged.nc FRAME FRAME 1
+autoimage
+trajout NAME.rst restart
+trajout NAME.pdb pdb
+go
+quit
+
